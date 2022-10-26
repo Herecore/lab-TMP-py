@@ -1,5 +1,5 @@
-n = int(input())
-m = int(input())
+n = int(input("Enter n: "))
+m = int(input("Enter m: "))
 
 if n > m:
     print("n is larger than m")
